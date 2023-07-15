@@ -111,4 +111,42 @@ body{
   margin-bottom: 128px;
   
 }
+/* Get the latest deal section CSS */
+.get-deal{
+  background-image: url("assets/Rectangle\ 9.png");  
+  background-size: cover;
+  background-repeat: no-repeat;  
+  height: 450px;
+  margin: 0px 100px;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.get-deal-tittle{
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 16px; 
+  text-align: center;
+}
+.get-deal-para{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 45px;
+}
+.get-deal-input{
+  width: 700px;
+  height: 26px;
+  border-radius: 8px;
+  background: #FFF;
+  border: 0px;
+  padding: 20px;
+  margin-right: 10px;
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 16px;
+  font-weight: 400;
+}
+
 
