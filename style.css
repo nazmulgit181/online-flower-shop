@@ -1,13 +1,12 @@
-body{
- 
+body{ 
   font-family: 'Lato', sans-serif;
 }
 *{
   margin: 0px;
   padding: 0px;
 }
-.header-container{
-  height: 850px;  
+/* Header section CSS */
+.header-container{  
   background: rgba(229, 84, 115, 0.10);
   display: flex;
   justify-content: space-around;
@@ -50,3 +49,5 @@ body{
 .header-image{
   width: 600px;
 }
+
+/* Hot deal section CSS */
