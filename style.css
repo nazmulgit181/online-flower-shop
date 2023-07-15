@@ -1,5 +1,52 @@
 body{
-  font-family: 'Josefin Sans', sans-serif;
-font-family: 'Jost', sans-serif;
-font-family: 'Lato', sans-serif;
+ 
+  font-family: 'Lato', sans-serif;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.header-container{
+  height: 850px;  
+  background: rgba(229, 84, 115, 0.10);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 70px;
+ 
+}
+.header-left-side{
+  width: 50%;
+  margin-left: 100px;
+}
+.header-text{
+  color: #272727;
+  font-size: 60px;
+  
+  font-weight: 800;
+  line-height: normal;
+}
+.header-para{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 25px 0px;
+  text-align: justify;
+}
+.btn-primary{
+  background: #E55473;
+  border-radius: 8px;
+  border: none;
+  padding: 20px 43px;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: 700;
+}
+.header-right-side{
+  width: 50%;
+  margin-right: 50px;
+}
+.header-image{
+  width: 600px;
 }
