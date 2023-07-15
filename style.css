@@ -81,4 +81,34 @@ body{
   max-width: 560px;
   margin: 25px 0px;
 }
+/* Instagram section CSS */
+.instagram-heading{
+  text-align: center;
+  margin-top: 128px;
+}
+.instagram-tittle{
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.instagram-para{
+  text-align: center; 
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 45px;  
+}
+.instagram-image{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 100px;
+}
+.instagram-image .instagram-img{
+  width: 270px;
+  margin-bottom: 128px;
+  
+}
 
